@@ -1,4 +1,4 @@
-const app = require("../server.js");
+const app = require("./server.js");
 
 describe("app.test", function () {
   it("GET / should return the homepage", function (done) {
