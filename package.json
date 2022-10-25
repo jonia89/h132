@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jonia89/h132/issues"
   },
-  "homepage": "https://github.com/jonia89/h132#readme"
+  "homepage": "https://github.com/jonia89/h132#readme",
+  "dependencies": {
+    "jest": "^29.2.2"
+  }
 }
